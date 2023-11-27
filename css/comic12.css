@@ -6,8 +6,8 @@
 }
 
 .comic__item {
-    width: 512px;
-    height: 512px;
+    width: 50%;
+    
     border: 3px solid darkred;
     position: relative;
 }
